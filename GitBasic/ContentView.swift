@@ -50,7 +50,7 @@ struct DefinitionView: View {
 
 
 
-
+//ini yang baru 
 #Preview {
     ContentView()
 }
